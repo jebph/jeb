@@ -1,0 +1,20 @@
+"test_window" = {
+	"type" = "MBUIWINDOW";
+	"is_static" = "false";
+	"is_major" = "true";
+	"anchor" = "BOTTOMRIGHT";
+	"width" = "500";
+	"height" = "300";
+	"test_window_frame" = {
+		"type" = "MBUIFRAME";
+		"anchor" = "TOPLEFT";
+		"offset_x" = "50";
+		"offset_y" = "40";
+		"width" = "0";
+		"height" = "0";
+		"file" = "gfx/ui/test_bg.png";
+		"is_tiled" = "true";
+	};
+	"elements" = [
+	]
+}
